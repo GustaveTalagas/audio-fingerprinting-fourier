@@ -17,7 +17,7 @@ Ce projet illustre l'application de la **Transformée de Fourier à court terme 
 
 ### Animation Mathématique (Manim)
 Pour expliquer visuellement la transformée de fourier et notre code nous avons programmé une animation avec **Manim**, sur python.
-* [Visionner l'animation explicative]() *(docs/Extrait-Manim.mp4)*
+* **[Visionner l'animation explicative](docs/Extrait-Manim.mp4)**
 
 ## Architecture du Code (Dossier `/src`)
 * `lecture_hashes.py` : Cœur mathématique et algorithmique (calcul STFT, extraction des pics, création des empreintes et logique d'alignement temporel).
