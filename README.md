@@ -12,9 +12,6 @@ Ce projet illustre l'application de la **Transformée de Fourier à court terme 
 2. Génère un spectrogramme en extrayant les pics d'intensité maximale.
 3. Crée des empreintes acoustiques uniques par un algorithme de **hachage temps-fréquence**.
 4. Identifie le morceau en évaluant la cohérence des décalages temporels avec une base de données de référence.
-
-![Spectrogramme]([docs/Spectro-amp.png](https://github.com/GustaveTalagas/audio-fingerprinting-fourier/blob/main/docs/Sprecto-amp.png))
-
 ### Animation Mathématique (Manim)
 Pour expliquer visuellement la transformée de fourier et notre code nous avons programmé une animation avec **Manim**, sur python.
 * **[Visionner l'animation explicative](docs/Extrait-Manim.mp4)**
