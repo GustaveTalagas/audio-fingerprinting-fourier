@@ -28,4 +28,4 @@ Pour expliquer visuellement la transformée de fourier et notre code nous avons 
 
 ## Rapport d'Étude
 L'explication mathématique détaillée de la transformation de Fourier (du modèle continu à l'application discrète) et l'analyse de nos résultats statistiques sont disponibles dans le document de synthèse :
-*  **[Consulter le rapport de projet (PDF)](docs/Fourier_premier_bilan.pdf)**
+*  **[Consulter le rapport de projet (PDF)](docs/Rapport-fourier.pdf)**
