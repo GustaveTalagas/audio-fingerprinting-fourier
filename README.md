@@ -15,17 +15,17 @@ Ce projet illustre l'application de la **Transformée de Fourier à court terme 
 
 ![Spectrogramme](assets/spectrogramme.png) *(Pense à glisser ton image ici)*
 
-### 🎬 Animation Mathématique (Manim)
-Pour expliquer visuellement le passage du signal du domaine temporel au domaine fréquentiel, nous avons programmé une animation explicative avec le moteur **Manim**.
-* [Visionner l'animation explicative](#) *(Remplace le # par ton lien YouTube ou fichier vidéo)*
+### Animation Mathématique (Manim)
+Pour expliquer visuellement la transformée de fourier et notre code nous avons programmé une animation avec **Manim**, sur python.
+* [Visionner l'animation explicative]() *(Remplace le # par ton lien YouTube ou fichier vidéo)*
 
-## 📂 Architecture du Code (Dossier `/src`)
+## Architecture du Code (Dossier `/src`)
 * `lecture_hashes.py` : Cœur mathématique et algorithmique (calcul STFT, extraction des pics, création des empreintes et logique d'alignement temporel).
 * `base_de_donnees.py` : Script d'initialisation analysant les fichiers audio complets pour constituer la base de données de référence (`.pkl`).
 * `acquierir_son.py` : Module gérant l'activation du microphone et l'enregistrement de l'extrait à tester.
 * `retrouver-piste.py` : Script principal d'exécution liant la capture, l'analyse et la comparaison pour retourner le titre reconnu.
 * `quantifier-performance.py` : Algorithme de benchmark automatisé évaluant la fiabilité du modèle sur des extraits tronqués aléatoirement.
 
-## 📄 Rapport d'Étude
+## Rapport d'Étude
 L'explication mathématique détaillée de la transformation de Fourier (du modèle continu à l'application discrète) et l'analyse de nos résultats statistiques sont disponibles dans le document de synthèse :
-* 📑 **[Consulter le rapport de projet (PDF)](docs/Fourier_premier_bilan.pdf)**
+*  **[Consulter le rapport de projet (PDF)](docs/Fourier_premier_bilan.pdf)**
