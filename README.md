@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/Sprecto-amp.png" alt="Spectrogramme audio" width="100%">
+</p>
+
 # audio-fingerprinting-fourier
 
 Projet consistant en la réalisation d'une vidéo sur le thème: *Période et fréquence*. Nous avons choisi d'aborder cette thématique sous l'angle de la transformée de fourier et la reconnaissance musicale. 
